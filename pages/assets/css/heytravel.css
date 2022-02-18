@@ -1,0 +1,25 @@
+.slick-dots {
+    bottom: -24px !important;
+}
+
+.slick-dots button::before {
+    font-size: 12px !important;
+    color: #818cf8 !important;
+}
+
+.special1-content, .social2-content {
+    display: grid !important;
+}
+
+.accordion__button:before {
+    float: right;
+    margin-top: 7px;
+}
+
+.accordion__button:hover {
+    background-color: #e0e7ff !important;
+}
+
+.cms-navbar {
+    z-index: 10000 !important;
+}

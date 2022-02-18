@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="678" height="53" viewBox="0 0 678 53">
+  <g id="Slider_control_1" data-name="Slider control 1" transform="translate(-174 -5980)">
+    <line id="Line_78" data-name="Line 78" x2="136" transform="translate(204.5 5989.5)" fill="none" stroke="#5a80fb" stroke-width="3"/>
+    <circle id="Ellipse_82" data-name="Ellipse 82" cx="9.5" cy="9.5" r="9.5" transform="translate(340 5980)" fill="#5a80fb"/>
+    <line id="Line_79" data-name="Line 79" x2="449.893" transform="translate(359.5 5989.5)" fill="none" stroke="#5a80fb" stroke-width="3" opacity="0.25"/>
+    <text id="Dec_1_2020" data-name="Dec 1, 2020" transform="translate(174 6013)" fill="#262626" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="13">Dec 1, 2020</tspan></text>
+    <text id="Jan_1_2021" data-name="Jan 1, 2021" transform="translate(328 6013)" fill="#262626" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="13">Jan 1, 2021</tspan></text>
+    <text id="Feb_1_2021" data-name="Feb 1, 2021" transform="translate(479 6013)" fill="#262626" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="13">Feb 1, 2021</tspan></text>
+    <text id="March_1_2021" data-name="March 1, 2021" transform="translate(624 6013)" fill="#262626" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="13">March 1, 2021</tspan></text>
+    <text id="April_1_2021" data-name="April 1, 2021" transform="translate(757 6013)" fill="#262626" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="13">April 1, 2021</tspan></text>
+    <circle id="Ellipse_503" data-name="Ellipse 503" cx="9.5" cy="9.5" r="9.5" transform="translate(195 5980)" fill="#5a80fb"/>
+  </g>
+</svg>
